@@ -1,3 +1,7 @@
+.position-fixed{
+    z-index: 10;
+}
+
 .carousel-item img{
     height: 80vh;
 }
